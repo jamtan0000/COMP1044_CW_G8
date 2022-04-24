@@ -18,7 +18,7 @@ Step 3 - Launch XAMPP Control Panel and start the Apache and MySQL modules.
 
 Step 4 - Click on Admin for MySQL Module, you will be redirected to the phpMyAdmin webpage.
 
-Step 5 - Click on New and make sure you insert "librarydb" in the "Datbase name" input row then click on Create.
+Step 5 - Click on New and make sure you insert "librarydb" in the "Database name" input row then click on Create.
 
 Step 6 - Click on Import in the ribbon, if Import is not found click on the Hamburger Icon (Triple horizontal stripes) and click on "Choose File" and choose librarydbSQL.sql where you download in step 1.
 
@@ -35,4 +35,4 @@ IN THE CASE OF CONNECTION ERRORS PLEASE TRY THE FOLLOWING:
     - Set variable $password to your password
     - Set variable $db to your database name you created in phpMyAdmin
 
-ps: If you using Microsoft Edge, you are able to see the password you type in login and sgin up page by clicking eye icon.
+ps: If you using Microsoft Edge, you are able to see the password where you type in login and sgin up page by clicking eye icon.
