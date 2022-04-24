@@ -27,6 +27,7 @@ Step 7 - launch your desired Web Browser Application and key in "localhost/sourc
 Step 8 - Start using the features on the website and for editing purposes and edit the entries in the database
 
 
+
 IN THE CASE OF CONNECTION ERRORS PLEASE TRY THE FOLLOWING:
 - Access source/includes/conn.php file and changing the following:
     - Set variable $severname to your severname
