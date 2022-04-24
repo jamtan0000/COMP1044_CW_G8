@@ -10,21 +10,21 @@ The Group 8 members consist of:
 - Mohamed Yasin Azeez (20184533)
 
 NOTE:    
-    Step 1 - Download source file and librarydbSQL.sql from the Github Repository.
-    
-    Step 2 - Relocate source file to the "C:\xampp\htdocs" directory on your computer.
-    
-    Step 3 - Launch XAMPP Control Panel and start the Apache and MySQL modules.
-    
-    Step 4 - Click on Admin for MySQL Module, you will be redirected to the phpMyAdmin webpage.
-    
-    Step 5 - Click on New and make sure you insert "librarydb" in the "Datbase name" input row then click on Create
-    
-    Step 6 - Click on Import in the ribbon, if Import is not found click on the Hamburger Icon (Triple horizontal stripes) and click on "Choose File" and choose library.sql
-    
-    Step 7 - launch your desired Web Browser Application and key in "localhost/source/login.php" to load the main page of the project
+Step 1 - Download source file and librarydbSQL.sql from the Github Repository.
 
-    Step 8 - Start using the features on the website and for editing purposes and edit the entries in the database
+Step 2 - Relocate source file to the "C:\xampp\htdocs" directory on your computer.
+
+Step 3 - Launch XAMPP Control Panel and start the Apache and MySQL modules.
+
+Step 4 - Click on Admin for MySQL Module, you will be redirected to the phpMyAdmin webpage.
+
+Step 5 - Click on New and make sure you insert "librarydb" in the "Datbase name" input row then click on Create
+
+Step 6 - Click on Import in the ribbon, if Import is not found click on the Hamburger Icon (Triple horizontal stripes) and click on "Choose File" and choose library.sql
+
+Step 7 - launch your desired Web Browser Application and key in "localhost/source/login.php" to load the main page of the project
+
+Step 8 - Start using the features on the website and for editing purposes and edit the entries in the database
 
 
 IN THE CASE OF CONNECTION ERRORS PLEASE TRY THE FOLLOWING:
