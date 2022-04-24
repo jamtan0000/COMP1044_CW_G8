@@ -34,3 +34,5 @@ IN THE CASE OF CONNECTION ERRORS PLEASE TRY THE FOLLOWING:
     - Set variable $username to your username
     - Set variable $password to your password
     - Set variable $db to your database name you created in phpMyAdmin
+
+ps: If you using Microsoft Edge, you are able to see the password you type in login and sgin up page by clicking eye icon.
