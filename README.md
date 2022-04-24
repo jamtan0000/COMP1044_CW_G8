@@ -18,13 +18,13 @@ Step 3 - Launch XAMPP Control Panel and start the Apache and MySQL modules.
 
 Step 4 - Click on Admin for MySQL Module, you will be redirected to the phpMyAdmin webpage.
 
-Step 5 - Click on New and make sure you insert "librarydb" in the "Datbase name" input row then click on Create
+Step 5 - Click on New and make sure you insert "librarydb" in the "Datbase name" input row then click on Create.
 
-Step 6 - Click on Import in the ribbon, if Import is not found click on the Hamburger Icon (Triple horizontal stripes) and click on "Choose File" and choose library.sql
+Step 6 - Click on Import in the ribbon, if Import is not found click on the Hamburger Icon (Triple horizontal stripes) and click on "Choose File" and choose librarydbSQL.sql where you download in step 1.
 
-Step 7 - launch your desired Web Browser Application and key in "localhost/source/login.php" to load the main page of the project
+Step 7 - launch your desired Web Browser Application and key in "localhost/source/login.php" to load the main page of the project.
 
-Step 8 - Start using the features on the website and for editing purposes and edit the entries in the database
+Step 8 - Start using the features on the website and for editing purposes and edit the entries in the database.
 
 
 
